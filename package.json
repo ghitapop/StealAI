@@ -2,10 +2,9 @@
   "name": "stealai",
   "version": "1.0.0",
   "description": "Artificial Intelingence platform",
-  "main": "main.js",
+  "main": "app/main.js",
   "scripts": {
-    "start": "electron main.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
